@@ -1,0 +1,15 @@
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/obj/Debug/net6.0/Lesson6.csproj.AssemblyReference.cache
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/obj/Debug/net6.0/Lesson6.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/obj/Debug/net6.0/Lesson6.AssemblyInfoInputs.cache
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/obj/Debug/net6.0/Lesson6.AssemblyInfo.cs
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/obj/Debug/net6.0/Lesson6.csproj.CoreCompileInputs.cache
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/bin/Debug/net6.0/Lesson6
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/bin/Debug/net6.0/Lesson6.deps.json
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/bin/Debug/net6.0/Lesson6.runtimeconfig.json
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/bin/Debug/net6.0/Lesson6.dll
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/bin/Debug/net6.0/ref/Lesson6.dll
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/bin/Debug/net6.0/Lesson6.pdb
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/obj/Debug/net6.0/Lesson6.dll
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/obj/Debug/net6.0/ref/Lesson6.dll
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/obj/Debug/net6.0/Lesson6.pdb
+/home/ubunta/Desktop/GeekBrains/C#/HomeWorks/Lesson6/obj/Debug/net6.0/Lesson6.genruntimeconfig.cache

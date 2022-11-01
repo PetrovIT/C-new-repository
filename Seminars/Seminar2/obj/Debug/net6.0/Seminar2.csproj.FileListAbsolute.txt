@@ -1,0 +1,15 @@
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/obj/Debug/net6.0/Seminar2.csproj.AssemblyReference.cache
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/obj/Debug/net6.0/Seminar2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/obj/Debug/net6.0/Seminar2.AssemblyInfoInputs.cache
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/obj/Debug/net6.0/Seminar2.AssemblyInfo.cs
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/obj/Debug/net6.0/Seminar2.csproj.CoreCompileInputs.cache
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/bin/Debug/net6.0/Seminar2
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/bin/Debug/net6.0/Seminar2.deps.json
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/bin/Debug/net6.0/Seminar2.runtimeconfig.json
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/bin/Debug/net6.0/Seminar2.dll
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/bin/Debug/net6.0/ref/Seminar2.dll
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/bin/Debug/net6.0/Seminar2.pdb
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/obj/Debug/net6.0/Seminar2.dll
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/obj/Debug/net6.0/ref/Seminar2.dll
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/obj/Debug/net6.0/Seminar2.pdb
+/home/ubunta/Desktop/C#/Seminars/Seminars/Seminar2/obj/Debug/net6.0/Seminar2.genruntimeconfig.cache

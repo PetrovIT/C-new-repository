@@ -1,0 +1,15 @@
+/home/ubunta/Desktop/C#/Lections/Lection3/obj/Debug/net6.0/Lection3.csproj.AssemblyReference.cache
+/home/ubunta/Desktop/C#/Lections/Lection3/obj/Debug/net6.0/Lection3.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubunta/Desktop/C#/Lections/Lection3/obj/Debug/net6.0/Lection3.AssemblyInfoInputs.cache
+/home/ubunta/Desktop/C#/Lections/Lection3/obj/Debug/net6.0/Lection3.AssemblyInfo.cs
+/home/ubunta/Desktop/C#/Lections/Lection3/obj/Debug/net6.0/Lection3.csproj.CoreCompileInputs.cache
+/home/ubunta/Desktop/C#/Lections/Lection3/bin/Debug/net6.0/Lection3
+/home/ubunta/Desktop/C#/Lections/Lection3/bin/Debug/net6.0/Lection3.deps.json
+/home/ubunta/Desktop/C#/Lections/Lection3/bin/Debug/net6.0/Lection3.runtimeconfig.json
+/home/ubunta/Desktop/C#/Lections/Lection3/bin/Debug/net6.0/Lection3.dll
+/home/ubunta/Desktop/C#/Lections/Lection3/bin/Debug/net6.0/ref/Lection3.dll
+/home/ubunta/Desktop/C#/Lections/Lection3/bin/Debug/net6.0/Lection3.pdb
+/home/ubunta/Desktop/C#/Lections/Lection3/obj/Debug/net6.0/Lection3.dll
+/home/ubunta/Desktop/C#/Lections/Lection3/obj/Debug/net6.0/ref/Lection3.dll
+/home/ubunta/Desktop/C#/Lections/Lection3/obj/Debug/net6.0/Lection3.pdb
+/home/ubunta/Desktop/C#/Lections/Lection3/obj/Debug/net6.0/Lection3.genruntimeconfig.cache
