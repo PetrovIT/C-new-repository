@@ -144,4 +144,3 @@ int different = DifferentMinMax(array);
 PrintArray(array);
 Console.WriteLine($" -> {different}");
 
-// changes
